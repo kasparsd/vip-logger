@@ -1,3 +1,3 @@
 # Voltage, Current and Power Logger for Electric Skateboards, Scooters and Bicycles
 
-Work in progress.
+See [the wiki](https://github.com/kasparsd/vip-logger/wiki).
