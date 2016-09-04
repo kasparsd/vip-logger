@@ -4789,7 +4789,6 @@ DIN A4, landscape with location and doc. field</description>
 <part name="GND14" library="supply1" deviceset="GND" device=""/>
 <part name="V+IN2" library="supply1" deviceset="V+" device=""/>
 <part name="OP2340\" library="Semiconductors" deviceset="OPA2340" device=""/>
-<part name="P+7" library="supply1" deviceset="VCC" device=""/>
 <part name="GND15" library="supply1" deviceset="GND" device=""/>
 <part name="V+IN3" library="supply1" deviceset="V+" device=""/>
 <part name="ISP" library="Connectors" deviceset="CON254_6WAY" device="254-2X3-EDGE" value="CON254_6WAY254-2X3-EDGE"/>
@@ -4857,7 +4856,6 @@ DIN A4, landscape with location and doc. field</description>
 <instance part="V+IN2" gate="1" x="-91.44" y="5.08"/>
 <instance part="OP2340\" gate="G$1" x="-38.1" y="45.72"/>
 <instance part="OP2340\" gate="G$2" x="25.4" y="45.72"/>
-<instance part="P+7" gate="VCC" x="15.24" y="63.5"/>
 <instance part="GND15" gate="1" x="5.08" y="30.48"/>
 <instance part="V+IN3" gate="1" x="5.08" y="66.04"/>
 <instance part="ISP" gate="1" x="83.82" y="53.34" rot="R180"/>
